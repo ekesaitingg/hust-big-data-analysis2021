@@ -1,0 +1,264 @@
+frozenset({'bottled water', 'bottled beer', 'soda'}),	0.005083884087442806
+frozenset({'root vegetables', 'whole milk', 'bottled water'}),	0.007320793085917641
+frozenset({'other vegetables', 'citrus fruit', 'whipped/sour cream'}),	0.0056939501779359435
+frozenset({'other vegetables', 'rolls/buns', 'pork'}),	0.005592272496187087
+frozenset({'other vegetables', 'yogurt', 'soda'}),	0.008337569903406202
+frozenset({'other vegetables', 'beef', 'rolls/buns'}),	0.005795627859684799
+frozenset({'citrus fruit', 'yogurt', 'rolls/buns'}),	0.005795627859684799
+frozenset({'other vegetables', 'whole milk', 'tropical fruit'}),	0.01708185053380783
+frozenset({'other vegetables', 'whole milk', 'bottled beer'}),	0.007625826131164209
+frozenset({'root vegetables', 'newspapers', 'whole milk'}),	0.005795627859684799
+frozenset({'fruit/vegetable juice', 'yogurt', 'soda'}),	0.005083884087442806
+frozenset({'whole milk', 'soda', 'chocolate'}),	0.005083884087442806
+frozenset({'whole milk', 'brown bread', 'tropical fruit'}),	0.0056939501779359435
+frozenset({'other vegetables', 'yogurt', 'pip fruit'}),	0.00813421453990849
+frozenset({'soda', 'sausage', 'rolls/buns'}),	0.009659379766141332
+frozenset({'root vegetables', 'whole milk', 'tropical fruit'}),	0.011997966446365024
+frozenset({'whole milk', 'butter', 'yogurt'}),	0.009354346720894764
+frozenset({'other vegetables', 'newspapers', 'whole milk'}),	0.008337569903406202
+frozenset({'root vegetables', 'yogurt', 'pip fruit'}),	0.0052872394509405184
+frozenset({'whole milk', 'yogurt', 'napkins'}),	0.006100660904931368
+frozenset({'pastry', 'whole milk', 'soda'}),	0.008235892221657347
+frozenset({'other vegetables', 'bottled water', 'sausage'}),	0.005083884087442806
+frozenset({'whole milk', 'tropical fruit', 'domestic eggs'}),	0.006914082358922217
+frozenset({'other vegetables', 'rolls/buns', 'frankfurter'}),	0.005592272496187087
+frozenset({'whole milk', 'tropical fruit', 'whipped/sour cream'}),	0.007930859176410779
+frozenset({'whole milk', 'yogurt', 'coffee'}),	0.005083884087442806
+frozenset({'whole milk', 'yogurt', 'margarine'}),	0.007015760040671073
+frozenset({'other vegetables', 'yogurt', 'domestic eggs'}),	0.005795627859684799
+frozenset({'other vegetables', 'root vegetables', 'whipped/sour cream'}),	0.008540925266903915
+frozenset({'other vegetables', 'yogurt', 'beef'}),	0.005185561769191663
+frozenset({'root vegetables', 'whole milk', 'beef'}),	0.008032536858159633
+frozenset({'other vegetables', 'whole milk', 'margarine'}),	0.009252669039145907
+frozenset({'other vegetables', 'long life bakery product', 'whole milk'}),	0.0056939501779359435
+frozenset({'other vegetables', 'whole milk', 'coffee'}),	0.006405693950177936
+frozenset({'fruit/vegetable juice', 'whole milk', 'root vegetables'}),	0.006507371631926792
+frozenset({'whole milk', 'yogurt', 'sausage'}),	0.008744280630401627
+frozenset({'other vegetables', 'root vegetables', 'pip fruit'}),	0.00813421453990849
+frozenset({'whole milk', 'margarine', 'rolls/buns'}),	0.007930859176410779
+frozenset({'root vegetables', 'yogurt', 'tropical fruit'}),	0.00813421453990849
+frozenset({'whole milk', 'soda', 'domestic eggs'}),	0.005185561769191663
+frozenset({'whole milk', 'soda', 'whipped/sour cream'}),	0.005490594814438231
+frozenset({'other vegetables', 'rolls/buns', 'domestic eggs'}),	0.005897305541433655
+frozenset({'other vegetables', 'yogurt', 'frozen vegetables'}),	0.0052872394509405184
+frozenset({'other vegetables', 'whole milk', 'rolls/buns'}),	0.017895271987798677
+frozenset({'other vegetables', 'root vegetables', 'butter'}),	0.0066090493136756485
+frozenset({'other vegetables', 'yogurt', 'tropical fruit'}),	0.012302999491611592
+frozenset({'citrus fruit', 'whole milk', 'rolls/buns'}),	0.007219115404168785
+frozenset({'whole milk', 'butter', 'whipped/sour cream'}),	0.006710726995424504
+frozenset({'whole milk', 'butter', 'domestic eggs'}),	0.005998983223182512
+frozenset({'other vegetables', 'citrus fruit', 'pip fruit'}),	0.005897305541433655
+frozenset({'whole milk', 'soda', 'bottled water'}),	0.0075241484494153535
+frozenset({'whole milk', 'curd', 'whipped/sour cream'}),	0.005897305541433655
+frozenset({'other vegetables', 'onions', 'root vegetables'}),	0.0056939501779359435
+frozenset({'other vegetables', 'bottled water', 'rolls/buns'}),	0.007320793085917641
+frozenset({'whole milk', 'brown bread', 'soda'}),	0.005083884087442806
+frozenset({'other vegetables', 'root vegetables', 'pork'}),	0.007015760040671073
+frozenset({'root vegetables', 'whole milk', 'whipped/sour cream'}),	0.00945602440264362
+frozenset({'other vegetables', 'soda', 'rolls/buns'}),	0.009862735129639044
+frozenset({'whole milk', 'rolls/buns', 'pip fruit'}),	0.0062023385866802234
+frozenset({'yogurt', 'sausage', 'rolls/buns'}),	0.005998983223182512
+frozenset({'yogurt', 'soda', 'rolls/buns'}),	0.00864260294865277
+frozenset({'pastry', 'whole milk', 'yogurt'}),	0.009150991357397052
+frozenset({'whole milk', 'yogurt', 'frankfurter'}),	0.0062023385866802234
+frozenset({'fruit/vegetable juice', 'whole milk', 'tropical fruit'}),	0.005998983223182512
+frozenset({'other vegetables', 'newspapers', 'root vegetables'}),	0.005998983223182512
+frozenset({'whole milk', 'yogurt', 'pip fruit'}),	0.009557702084392475
+frozenset({'other vegetables', 'bottled water', 'tropical fruit'}),	0.0062023385866802234
+frozenset({'whole milk', 'rolls/buns', 'pork'}),	0.0062023385866802234
+frozenset({'whole milk', 'bottled water', 'bottled beer'}),	0.006100660904931368
+frozenset({'whole milk', 'beef', 'rolls/buns'}),	0.00681240467717336
+frozenset({'other vegetables', 'whole milk', 'cream cheese '}),	0.006710726995424504
+frozenset({'other vegetables', 'whole milk', 'hygiene articles'}),	0.005185561769191663
+frozenset({'whole milk', 'rolls/buns', 'frankfurter'}),	0.005998983223182512
+frozenset({'other vegetables', 'tropical fruit', 'whipped/sour cream'}),	0.007829181494661922
+frozenset({'other vegetables', 'whole milk', 'shopping bags'}),	0.007625826131164209
+frozenset({'citrus fruit', 'root vegetables', 'tropical fruit'}),	0.0056939501779359435
+frozenset({'root vegetables', 'whole milk', 'domestic eggs'}),	0.008540925266903915
+frozenset({'fruit/vegetable juice', 'bottled water', 'whole milk'}),	0.005795627859684799
+frozenset({'yogurt', 'tropical fruit', 'rolls/buns'}),	0.008744280630401627
+frozenset({'whole milk', 'sausage', 'rolls/buns'}),	0.009354346720894764
+frozenset({'pastry', 'whole milk', 'root vegetables'}),	0.0056939501779359435
+frozenset({'other vegetables', 'whole milk', 'root vegetables'}),	0.023182511438739197
+frozenset({'other vegetables', 'butter', 'rolls/buns'}),	0.0056939501779359435
+frozenset({'citrus fruit', 'whole milk', 'root vegetables'}),	0.009150991357397052
+frozenset({'root vegetables', 'yogurt', 'whipped/sour cream'}),	0.006405693950177936
+frozenset({'other vegetables', 'bottled water', 'root vegetables'}),	0.007015760040671073
+frozenset({'whole milk', 'bottled water', 'yogurt'}),	0.009659379766141332
+frozenset({'citrus fruit', 'whole milk', 'whipped/sour cream'}),	0.00630401626842908
+frozenset({'other vegetables', 'margarine', 'rolls/buns'}),	0.005185561769191663
+frozenset({'other vegetables', 'whole milk', 'butter'}),	0.011489578037620742
+frozenset({'yogurt', 'tropical fruit', 'whipped/sour cream'}),	0.0062023385866802234
+frozenset({'other vegetables', 'soda', 'domestic eggs'}),	0.005083884087442806
+frozenset({'rolls/buns', 'whole milk', 'whipped/sour cream'}),	0.007829181494661922
+frozenset({'whole milk', 'butter', 'bottled water'}),	0.005388917132689374
+frozenset({'other vegetables', 'whipped/sour cream', 'pip fruit'}),	0.005592272496187087
+frozenset({'other vegetables', 'onions', 'whole milk'}),	0.0066090493136756485
+frozenset({'root vegetables', 'whole milk', 'pip fruit'}),	0.008947635993899338
+frozenset({'whole milk', 'bottled water', 'rolls/buns'}),	0.008744280630401627
+frozenset({'citrus fruit', 'whole milk', 'pip fruit'}),	0.005185561769191663
+frozenset({'other vegetables', 'whole milk', 'soda'}),	0.013929842399593289
+frozenset({'shopping bags', 'sausage', 'soda'}),	0.0056939501779359435
+frozenset({'other vegetables', 'newspapers', 'rolls/buns'}),	0.005490594814438231
+frozenset({'other vegetables', 'root vegetables', 'beef'}),	0.007930859176410779
+frozenset({'whole milk', 'yogurt', 'domestic eggs'}),	0.007727503812913066
+frozenset({'whole milk', 'tropical fruit', 'rolls/buns'}),	0.010981189628876462
+frozenset({'root vegetables', 'whole milk', 'brown bread'}),	0.0056939501779359435
+frozenset({'whole milk', 'sausage', 'whipped/sour cream'}),	0.005083884087442806
+frozenset({'whole milk', 'yogurt', 'soda'}),	0.01047280122013218
+frozenset({'root vegetables', 'whole milk', 'sausage'}),	0.007727503812913066
+frozenset({'other vegetables', 'whole milk', 'frozen vegetables'}),	0.009659379766141332
+frozenset({'other vegetables', 'root vegetables', 'shopping bags'}),	0.0066090493136756485
+frozenset({'other vegetables', 'yogurt', 'rolls/buns'}),	0.011489578037620742
+frozenset({'soda', 'tropical fruit', 'rolls/buns'}),	0.005388917132689374
+frozenset({'root vegetables', 'yogurt', 'rolls/buns'}),	0.007219115404168785
+frozenset({'other vegetables', 'whole milk', 'sausage'}),	0.010167768174885612
+frozenset({'chicken', 'whole milk', 'rolls/buns'}),	0.0052872394509405184
+frozenset({'other vegetables', 'butter', 'yogurt'}),	0.006405693950177936
+frozenset({'other vegetables', 'pastry', 'rolls/buns'}),	0.006100660904931368
+frozenset({'root vegetables', 'whole milk', 'yogurt'}),	0.014539908490086425
+frozenset({'whole milk', 'shopping bags', 'rolls/buns'}),	0.0052872394509405184
+frozenset({'other vegetables', 'rolls/buns', 'pip fruit'}),	0.005083884087442806
+frozenset({'other vegetables', 'chicken', 'whole milk'}),	0.008439247585155059
+frozenset({'other vegetables', 'whole milk', 'brown bread'}),	0.009354346720894764
+frozenset({'bottled water', 'soda', 'rolls/buns'}),	0.00681240467717336
+frozenset({'newspapers', 'whole milk', 'tropical fruit'}),	0.005083884087442806
+frozenset({'other vegetables', 'yogurt', 'pastry'}),	0.0066090493136756485
+frozenset({'whole milk', 'rolls/buns', 'napkins'}),	0.0052872394509405184
+frozenset({'bottled water', 'tropical fruit', 'soda'}),	0.005185561769191663
+frozenset({'sausage', 'yogurt', 'soda'}),	0.005592272496187087
+frozenset({'other vegetables', 'yogurt', 'fruit/vegetable juice'}),	0.008235892221657347
+frozenset({'citrus fruit', 'tropical fruit', 'pip fruit'}),	0.005592272496187087
+frozenset({'whole milk', 'pip fruit', 'domestic eggs'}),	0.005388917132689374
+frozenset({'newspapers', 'whole milk', 'yogurt'}),	0.0066090493136756485
+frozenset({'other vegetables', 'pastry', 'tropical fruit'}),	0.005083884087442806
+frozenset({'other vegetables', 'yogurt', 'sausage'}),	0.00813421453990849
+frozenset({'other vegetables', 'root vegetables', 'soda'}),	0.008235892221657347
+frozenset({'citrus fruit', 'yogurt', 'tropical fruit'}),	0.00630401626842908
+frozenset({'pastry', 'whole milk', 'sausage'}),	0.0056939501779359435
+frozenset({'sausage', 'shopping bags', 'rolls/buns'}),	0.005998983223182512
+frozenset({'root vegetables', 'yogurt', 'sausage'}),	0.005185561769191663
+frozenset({'other vegetables', 'whole milk', 'pip fruit'}),	0.013523131672597865
+frozenset({'whole milk', 'yogurt', 'tropical fruit'}),	0.015149974580579562
+frozenset({'fruit/vegetable juice', 'bottled water', 'soda'}),	0.005185561769191663
+frozenset({'whole milk', 'cream cheese ', 'yogurt'}),	0.0066090493136756485
+frozenset({'root vegetables', 'tropical fruit', 'rolls/buns'}),	0.005897305541433655
+frozenset({'other vegetables', 'yogurt', 'whipped/sour cream'}),	0.010167768174885612
+frozenset({'root vegetables', 'chicken', 'whole milk'}),	0.005998983223182512
+frozenset({'other vegetables', 'bottled water', 'yogurt'}),	0.00813421453990849
+frozenset({'whole milk', 'tropical fruit', 'pip fruit'}),	0.008439247585155059
+frozenset({'other vegetables', 'yogurt', 'brown bread'}),	0.005185561769191663
+frozenset({'other vegetables', 'citrus fruit', 'root vegetables'}),	0.010371123538383325
+frozenset({'whole milk', 'butter', 'rolls/buns'}),	0.0066090493136756485
+frozenset({'other vegetables', 'root vegetables', 'pastry'}),	0.005897305541433655
+frozenset({'other vegetables', 'tropical fruit', 'sausage'}),	0.005998983223182512
+frozenset({'other vegetables', 'whole milk', 'yogurt'}),	0.02226741230299949
+frozenset({'frozen vegetables', 'whole milk', 'rolls/buns'}),	0.005083884087442806
+frozenset({'other vegetables', 'citrus fruit', 'tropical fruit'}),	0.009049313675648195
+frozenset({'whole milk', 'yogurt', 'rolls/buns'}),	0.015556685307574987
+frozenset({'root vegetables', 'whole milk', 'shopping bags'}),	0.0052872394509405184
+frozenset({'other vegetables', 'root vegetables', 'sausage'}),	0.00681240467717336
+frozenset({'other vegetables', 'tropical fruit', 'fruit/vegetable juice'}),	0.0066090493136756485
+frozenset({'whole milk', 'bottled water', 'tropical fruit'}),	0.008032536858159633
+frozenset({'bottled water', 'yogurt', 'rolls/buns'}),	0.0071174377224199285
+frozenset({'other vegetables', 'whole milk', 'oil'}),	0.005083884087442806
+frozenset({'frozen vegetables', 'whole milk', 'root vegetables'}),	0.0062023385866802234
+frozenset({'pastry', 'whole milk', 'rolls/buns'}),	0.008540925266903915
+frozenset({'other vegetables', 'yogurt', 'curd'}),	0.006100660904931368
+frozenset({'other vegetables', 'pastry', 'soda'}),	0.005490594814438231
+frozenset({'other vegetables', 'root vegetables', 'margarine'}),	0.005897305541433655
+frozenset({'whole milk', 'whipped/sour cream', 'domestic eggs'}),	0.0056939501779359435
+frozenset({'newspapers', 'whole milk', 'rolls/buns'}),	0.007625826131164209
+frozenset({'other vegetables', 'sausage', 'shopping bags'}),	0.005388917132689374
+frozenset({'other vegetables', 'butter', 'tropical fruit'}),	0.005490594814438231
+frozenset({'other vegetables', 'soda', 'sausage'}),	0.007219115404168785
+frozenset({'whole milk', 'sausage', 'pip fruit'}),	0.005592272496187087
+frozenset({'yogurt', 'tropical fruit', 'pip fruit'}),	0.006405693950177936
+frozenset({'whole milk', 'bottled beer', 'rolls/buns'}),	0.005388917132689374
+frozenset({'other vegetables', 'tropical fruit', 'rolls/buns'}),	0.007829181494661922
+frozenset({'whole milk', 'tropical fruit', 'soda'}),	0.007829181494661922
+frozenset({'other vegetables', 'whole milk', 'chocolate'}),	0.005490594814438231
+frozenset({'citrus fruit', 'whole milk', 'butter'}),	0.005083884087442806
+frozenset({'other vegetables', 'root vegetables', 'rolls/buns'}),	0.012201321809862735
+frozenset({'other vegetables', 'yogurt', 'shopping bags'}),	0.005388917132689374
+frozenset({'root vegetables', 'whole milk', 'soda'}),	0.00813421453990849
+frozenset({'other vegetables', 'sugar', 'whole milk'}),	0.00630401626842908
+frozenset({'other vegetables', 'whole milk', 'napkins'}),	0.00681240467717336
+frozenset({'other vegetables', 'rolls/buns', 'whipped/sour cream'}),	0.006710726995424504
+frozenset({'whole milk', 'tropical fruit', 'frankfurter'}),	0.005185561769191663
+frozenset({'other vegetables', 'cream cheese ', 'yogurt'}),	0.0052872394509405184
+frozenset({'other vegetables', 'bottled water', 'soda'}),	0.0056939501779359435
+frozenset({'bottled water', 'yogurt', 'tropical fruit'}),	0.0071174377224199285
+frozenset({'whole milk', 'bottled beer', 'yogurt'}),	0.005185561769191663
+frozenset({'whole milk', 'brown bread', 'rolls/buns'}),	0.0052872394509405184
+frozenset({'other vegetables', 'root vegetables', 'curd'}),	0.005490594814438231
+frozenset({'fruit/vegetable juice', 'whole milk', 'rolls/buns'}),	0.005592272496187087
+frozenset({'other vegetables', 'whipped/sour cream', 'domestic eggs'}),	0.005083884087442806
+frozenset({'other vegetables', 'whole milk', 'hamburger meat'}),	0.00630401626842908
+frozenset({'whole milk', 'yogurt', 'beef'}),	0.006100660904931368
+frozenset({'root vegetables', 'tropical fruit', 'pip fruit'}),	0.0052872394509405184
+frozenset({'whole milk', 'curd', 'tropical fruit'}),	0.006507371631926792
+frozenset({'pastry', 'soda', 'rolls/buns'}),	0.005388917132689374
+frozenset({'other vegetables', 'citrus fruit', 'whole milk'}),	0.013014743263853584
+frozenset({'shopping bags', 'whole milk', 'soda'}),	0.00681240467717336
+frozenset({'other vegetables', 'whole milk', 'pastry'}),	0.010574478901881037
+frozenset({'other vegetables', 'root vegetables', 'yogurt'}),	0.012913065582104729
+frozenset({'other vegetables', 'shopping bags', 'rolls/buns'}),	0.0052872394509405184
+frozenset({'other vegetables', 'whole milk', 'frankfurter'}),	0.007625826131164209
+frozenset({'fruit/vegetable juice', 'whole milk', 'yogurt'}),	0.00945602440264362
+frozenset({'other vegetables', 'root vegetables', 'fruit/vegetable juice'}),	0.0066090493136756485
+frozenset({'whole milk', 'curd', 'rolls/buns'}),	0.005897305541433655
+frozenset({'newspapers', 'yogurt', 'rolls/buns'}),	0.005083884087442806
+frozenset({'other vegetables', 'whole milk', 'beef'}),	0.009252669039145907
+frozenset({'citrus fruit', 'whole milk', 'yogurt'}),	0.010269445856634469
+frozenset({'bottled water', 'tropical fruit', 'rolls/buns'}),	0.005388917132689374
+frozenset({'citrus fruit', 'whole milk', 'domestic eggs'}),	0.0056939501779359435
+frozenset({'other vegetables', 'whole milk', 'domestic eggs'}),	0.012302999491611592
+frozenset({'bottled water', 'yogurt', 'soda'}),	0.007422470767666497
+frozenset({'citrus fruit', 'whole milk', 'tropical fruit'}),	0.009049313675648195
+frozenset({'other vegetables', 'whole milk', 'white bread'}),	0.005897305541433655
+frozenset({'pastry', 'whole milk', 'pip fruit'}),	0.005083884087442806
+frozenset({'other vegetables', 'root vegetables', 'tropical fruit'}),	0.012302999491611592
+frozenset({'shopping bags', 'soda', 'rolls/buns'}),	0.00630401626842908
+frozenset({'other vegetables', 'root vegetables', 'frozen vegetables'}),	0.006100660904931368
+frozenset({'whole milk', 'curd', 'yogurt'}),	0.010066090493136757
+frozenset({'other vegetables', 'curd', 'tropical fruit'}),	0.0052872394509405184
+frozenset({'whole milk', 'soda', 'rolls/buns'}),	0.008845958312150484
+frozenset({'other vegetables', 'soda', 'shopping bags'}),	0.005388917132689374
+frozenset({'whole milk', 'margarine', 'domestic eggs'}),	0.005185561769191663
+frozenset({'root vegetables', 'whole milk', 'pork'}),	0.00681240467717336
+frozenset({'whole milk', 'yogurt', 'whipped/sour cream'}),	0.010879511947127605
+frozenset({'citrus fruit', 'whole milk', 'bottled water'}),	0.005897305541433655
+frozenset({'other vegetables', 'bottled water', 'whole milk'}),	0.010777834265378749
+frozenset({'whole milk', 'tropical fruit', 'sausage'}),	0.007219115404168785
+frozenset({'curd', 'tropical fruit', 'yogurt'}),	0.0052872394509405184
+frozenset({'other vegetables', 'citrus fruit', 'yogurt'}),	0.007625826131164209
+frozenset({'root vegetables', 'whole milk', 'frankfurter'}),	0.005083884087442806
+frozenset({'other vegetables', 'chicken', 'root vegetables'}),	0.0056939501779359435
+frozenset({'other vegetables', 'tropical fruit', 'pip fruit'}),	0.00945602440264362
+frozenset({'other vegetables', 'whole milk', 'whipped/sour cream'}),	0.014641586171835282
+frozenset({'whole milk', 'yogurt', 'brown bread'}),	0.0071174377224199285
+frozenset({'whole milk', 'whipped/sour cream', 'pip fruit'}),	0.005998983223182512
+frozenset({'whole milk', 'rolls/buns', 'domestic eggs'}),	0.0066090493136756485
+frozenset({'pastry', 'whole milk', 'tropical fruit'}),	0.006710726995424504
+frozenset({'other vegetables', 'newspapers', 'yogurt'}),	0.005592272496187087
+frozenset({'pastry', 'yogurt', 'rolls/buns'}),	0.005795627859684799
+frozenset({'other vegetables', 'whole milk', 'curd'}),	0.009862735129639044
+frozenset({'root vegetables', 'whole milk', 'rolls/buns'}),	0.012709710218607015
+frozenset({'whole milk', 'yogurt', 'shopping bags'}),	0.0052872394509405184
+frozenset({'root vegetables', 'whole milk', 'curd'}),	0.0062023385866802234
+frozenset({'fruit/vegetable juice', 'whole milk', 'soda'}),	0.006100660904931368
+frozenset({'root vegetables', 'whole milk', 'butter'}),	0.008235892221657347
+frozenset({'other vegetables', 'citrus fruit', 'rolls/buns'}),	0.005998983223182512
+frozenset({'frozen vegetables', 'whole milk', 'yogurt'}),	0.006100660904931368
+frozenset({'other vegetables', 'butter', 'whipped/sour cream'}),	0.005795627859684799
+frozenset({'yogurt', 'tropical fruit', 'soda'}),	0.0066090493136756485
+frozenset({'whole milk', 'butter', 'tropical fruit'}),	0.0062023385866802234
+frozenset({'whole milk', 'soda', 'sausage'}),	0.006710726995424504
+frozenset({'other vegetables', 'whole milk', 'fruit/vegetable juice'}),	0.01047280122013218
+frozenset({'other vegetables', 'sausage', 'rolls/buns'}),	0.008845958312150484
+frozenset({'other vegetables', 'citrus fruit', 'bottled water'}),	0.005083884087442806
+frozenset({'other vegetables', 'yogurt', 'margarine'}),	0.0056939501779359435
+frozenset({'other vegetables', 'root vegetables', 'domestic eggs'}),	0.007320793085917641
+frozenset({'other vegetables', 'whole milk', 'pork'}),	0.010167768174885612
+frozenset({'other vegetables', 'soda', 'tropical fruit'}),	0.007219115404168785
